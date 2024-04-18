@@ -1,4 +1,4 @@
-### Hello World! 👋
+### HI! 👋
 
 Welcome to my GitHub page! I'm Nathan Samson a tech enthusiast who's passionate about using technology to make a positive impact. Here's a little about what I'm up to and what excites me in the tech world:
 
