@@ -9,6 +9,6 @@ Welcome to my GitHub page! I'm Nathan Samson a tech enthusiast who's passionate 
 - 💬 **Ask Me About:** If you're curious about ways to use tech to help people hit me up! I love discussing technology and brainstorming ideas on how to solve complex issues.
 - 📫 **How to Reach Me:** Feel free to drop me a message here or reach out through ([https://www.linkedin.com/in/nathan-samson-bostesa/]). I’m always open to conversations and new opportunities.
 - 😄 **Pronouns:** He/Him.
-- ⚡ **Fun Fact:** Besides my tech passion, I'm a huge sports enthusiast. I love basketball and enjoy playing and watching just about every sport. My ravens will win the super bowl next year (Lamar will use his athletiscism when he needs to) and hopefully the Thunder and Orioles win also this season!
+- ⚡ **Fun Fact:** Besides my tech passion, I'm a huge sports enthusiast. I love basketball and enjoy playing and watching just about every sport. Big fan of the Ravens, Orioles, and Thunder
 
 Thanks for stopping by, and I look forward to connecting with fellow tech enthusiasts and professionals who are as excited about the future of technology as I am!
