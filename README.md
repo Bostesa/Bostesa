@@ -1,6 +1,6 @@
 ### HI! 👋
 
-Welcome to my GitHub! I'm Nathan Samson a tech enthusiast who's passionate about using technology in innovative ways:
+Welcome to my GitHub! I'm Nathan Samson a tech enthusiast who's passionate about using technology in innovative ways to help people:
 
 - 🔭 **Current Work:** I'm actively engaged in projects involving the Internet of Things (IoT) ,AI, and Edge Computing. I see huge potential in these technologies to create responsive, efficient systems that enhance human lives daily.
 - 🌱 **Learning:** My personal current learning journey includes diving deeper into AI specifically LLMs and learning the Guitar.
